@@ -1,1 +1,1 @@
-add sone new
+add sone
